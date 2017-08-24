@@ -1,0 +1,10 @@
+.jumbotron {
+    background: none;
+    color: #FFF;
+    font-size: 21px;
+    font-weight: 200;
+}
+.jumbotron h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 34px;
+}

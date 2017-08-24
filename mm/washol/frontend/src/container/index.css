@@ -1,0 +1,17 @@
+body {
+    line-height: 1.2;
+    height: 100%;
+    background: #ffffff url(./img/bg_main2.jpg) no-repeat center top;
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Jadwal sholat */
+.jadwalBox {
+    bottom: 0px;
+    position: absolute;
+    margin-bottom: 20px;
+}
+

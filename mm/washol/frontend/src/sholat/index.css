@@ -1,0 +1,33 @@
+.wkt {
+    width: 168px;
+    margin: 0px 1%;
+    display: inline-block;
+    font-size: 24px;
+    line-height: 52px;
+    position: relative;
+    font-weight: 700;
+    color: #fff;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.current {
+    background-color: #24B7A4;
+    border-color: #24B7A4;
+}
+.soon {
+    background-color: #ff5722;
+    border-color: #ff5722;
+}
+.wkt .caption {
+
+}
+.caption span {
+    display: block;
+    background-color: #2d2d2d;
+    color: #CCC;
+}
+
+.current span {
+    color: #FFF;
+}

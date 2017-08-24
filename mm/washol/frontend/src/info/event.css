@@ -1,0 +1,32 @@
+
+/* Event */
+.jdw {
+
+}
+.jwd-point {
+    position: relative;
+    margin-bottom: 40px;
+}
+.jdw-circle {
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    background:#24B7A4;
+    border: 3px solid #fff;
+    display: inline-table;
+} 
+.jdw-circle .date-number {
+    margin-top: 0;
+    margin-bottom: -3px;
+    font-size: 40px;
+}
+.jdw-content {
+    display: inline-table;
+    padding: 0px 10px;
+    top: 10px;
+    position: absolute;
+}
+.jdw-content h2 {
+    margin-top: 0;
+}
+
